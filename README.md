@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning TypeScript, Angular & Node.js
+- 🌱 I’m currently learning C#.NET & PHP
 - 💬 Ask me about C, DS, Angular, MySQL
 - 📫 How to reach me: @anitha-b-685b75232
 
